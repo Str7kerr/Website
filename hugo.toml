@@ -1,3 +1,5 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://str7kerr.github.io/Website/'
 languageCode = 'en-us'
 theme = 'my-default-theme'
+
+relativeURLs = false
